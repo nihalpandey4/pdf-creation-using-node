@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "aws-sdk": "^2.1137.0",
+    "bluebird": "^3.7.2",
     "express": "^4.18.1",
     "pdfkit": "^0.13.0"
   }
